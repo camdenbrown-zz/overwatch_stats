@@ -1,8 +1,8 @@
 require 'spec_helper'
 
-describe OverwatchStats do
+describe Overwatch do
   it 'has a version number' do
-    expect(OverwatchStats::VERSION).not_to be nil
+    expect(Overwatch::VERSION).not_to be nil
   end
 
   it 'does something useful' do
