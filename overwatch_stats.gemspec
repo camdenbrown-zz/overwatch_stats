@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.name          = "overwatch"
   spec.version       = Overwatch::VERSION
   spec.authors       = ["camdenbrown"]
-  spec.email         = ["camden.brown@metova.com"]
+  spec.email         = ["camdenebrown@gmail.com"]
 
   spec.summary       = %q{A Ruby Gem that returns Blizzard Overwatch player stats.}
   spec.description   = %q{You can retrieve profile stats, specific hero stats, cumulative hero stats, achievements, and patch notes from Blizzard Overwatch web scraping.}
