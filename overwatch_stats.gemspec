@@ -9,9 +9,9 @@ Gem::Specification.new do |spec|
   spec.authors       = ["camdenbrown"]
   spec.email         = ["camden.brown@metova.com"]
 
-  spec.summary       = %q{sdfadsfasdfdafadsfa}
-  spec.description   = %q{sdafasdfdasfdas}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.summary       = %q{A Ruby Gem that returns Blizzard Overwatch player stats.}
+  spec.description   = %q{You can retrieve profile stats, specific hero stats, cumulative hero stats, achievements, and patch notes from Blizzard Overwatch web scraping.}
+  spec.homepage      = "https://github.com/camdenbrown/overwatch_stats"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
