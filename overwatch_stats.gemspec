@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'overwatch/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "overwatch"
+  spec.name          = "overwatch-stats"
   spec.version       = Overwatch::VERSION
   spec.authors       = ["camdenbrown"]
   spec.email         = ["camdenebrown@gmail.com"]
