@@ -1,5 +1,5 @@
 # Overwatch stats
-This is a gem that can be used to retrieve information about Overwatch players by scraping Blizzard's website and be returns as JSON. Here are some of the available commands:
+This is a gem that can be used to retrieve information about Overwatch players by scraping Blizzard's website and returns the data as JSON. Here are some of the available commands:
 
 ```ruby
 # Battle.net tags are case sensitive. Also the # must be replaced by a -
